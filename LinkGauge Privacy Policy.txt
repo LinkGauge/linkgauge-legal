@@ -1,0 +1,170 @@
+1. Introduction
+
+This Privacy Policy describes how LinkGauge (“we”, “our”, or “us”), operated by Richard as a sole proprietorship, processes information when users interact with the LinkGauge application.
+
+LinkGauge is a testing and educational project, created for research, experimentation, and learning purposes related to LinkedIn’s API ecosystem.
+The application is not intended for commercial use, and no personal user data is stored, sold, rented, or used for marketing.
+
+We are committed to respecting user privacy and adhering to LinkedIn’s API Terms, as well as general data protection principles.
+
+2. Purpose of the Application
+
+LinkGauge is designed to:
+
+Test LinkedIn’s authentication (OAuth 2.0)
+
+Retrieve non-personal organization analytics data, such as impressions on posts
+
+Explore how LinkedIn’s API works for educational purposes
+
+Demonstrate how analytics can be processed and visualized
+
+The application is not intended to handle any personal information, does not offer user accounts, and does not profile or track users.
+
+3. Information We Collect
+
+LinkGauge does not collect, store, or process any personal data such as:
+
+Names
+
+Email addresses
+
+LinkedIn profile details
+
+Connections or contacts
+
+Messages
+
+Demographic information
+
+✔ The only retrieved data is:
+
+Organization-level analytics provided through the LinkedIn Marketing Developer Platform
+
+Metrics such as impressions, clicks, likes, comments
+
+Public identifiers like organization URN or post URN
+
+✔ These data points:
+
+Are non-personal
+
+Do not identify any LinkedIn members
+
+Are only accessible with the explicit permission of the organization page admin
+
+4. OAuth Authentication
+
+LinkGauge uses LinkedIn OAuth 2.0 exclusively for:
+
+Verifying that a user is an admin of their Company Page
+
+Retrieving analytics that LinkedIn permits through their official APIs
+
+We do NOT:
+
+Store access tokens permanently
+
+Share tokens with third parties
+
+Collect personal data during authorization
+
+OAuth tokens are used temporarily in the testing session and may be stored only in secure, local memory for short-lived operational purposes.
+
+5. How We Use Data
+
+The limited analytics data retrieved via LinkedIn is used only for:
+
+Testing API functionality
+
+Demonstrating data queries
+
+Learning how LinkedIn analytics can be visualized or integrated into tools like Python scripts or Power BI
+
+Non-commercial research
+
+We do not use analytics for decision-making about individuals.
+We do not use analytics for marketing or advertising.
+We do not use analytics to evaluate or track LinkedIn users.
+
+6. Data Sharing and Disclosure
+
+We do not share any data with:
+
+Third-party companies
+
+Advertisers
+
+External developers
+
+Analytics services
+
+The retrieved LinkedIn data remains solely within the testing environment.
+
+7. Data Storage and Security
+
+LinkGauge does not maintain a database.
+
+No personal data is saved to disk or transmitted externally.
+
+Any analytics data is processed in-memory during testing only.
+
+Once a session ends, all data is discarded.
+
+OAuth tokens, when used, are safeguarded and not stored beyond the active session.
+
+8. Educational and Testing Use Disclaimer
+
+LinkGauge is an experimental and educational project.
+
+Accordingly:
+
+The application may be incomplete or unstable
+
+The app is not intended for production or public deployment
+
+Users should not rely on it for business-critical analytics
+
+The purpose is to understand API mechanics, data structures, and technical integrations
+
+All usage is at the user’s discretion, with no guarantees.
+
+9. LinkedIn API Compliance
+
+LinkGauge fully adheres to:
+
+LinkedIn API Terms of Use
+
+LinkedIn Marketing Developer Platform guidelines
+
+Restrictions regarding personal data
+
+Limitations on LinkedIn profile access
+
+We only access data explicitly permitted by LinkedIn and granted by the user.
+
+10. User Rights
+
+Because LinkGauge does not store personal data:
+
+No deletion requests are needed
+
+No data correction mechanisms are required
+
+No personal data export is provided
+
+Users may revoke LinkedIn access at any time via:
+
+LinkedIn Settings → Data Privacy → Other Applications
+
+11. Changes to This Privacy Policy
+
+We may update this Privacy Policy in the future.
+Updates will be posted on this page with a new “Last updated” date.
+
+12. Contact Information
+
+For questions regarding this Privacy Policy or the LinkGauge testing project, contact:
+
+Richard (Owner, LinkGauge)
+Email: LinkGauge@outlook.com
